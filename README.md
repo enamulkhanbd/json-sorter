@@ -1,4 +1,4 @@
-# JSON Sorter & Beautifier (Prettier-like)
+# JSON Sorter & Beautifier 
 
 A simple **Python Tkinter application** to sort JSON keys and beautify JSON files, similar to the **Prettier** extension in VS Code. It allows users to select a JSON or TXT file, sort it recursively (A–Z), and save a prettified version to a location of their choice.
 
